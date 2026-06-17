@@ -40,22 +40,25 @@ Django Application
 ## Screenshots
 
 ### EC2 Instance Running
-![EC2](screenshots/screenshot1-ec2-running.png)
+![EC2](screenshots/screenshot1-ec2-running.png.png)
 
 ### SSH Login
-![SSH](screenshots/screenshot2-ssh-login.png)
+![SSH](screenshots/Screenshot2-ssh-login.png.png)
 
 ### Python Installation
-![Python](screenshots/screenshot3-python-version.png)
+![Python](screenshots/Screenshot3-python-version.png.png)
 
 ### Django Application
-![Django](screenshots/screenshot4-django-page.png)
+![Django](screenshots/Screenshot4-django-page.png.png)
 
 ### Gunicorn Running
-![Gunicorn](screenshots/screenshot5-gunicorn.png)
+![Gunicorn](screenshots/Screenshot6-gunicorn-running.png.png)
+
+### Gunicorn Application
+![Gunicorn](screenshots/Screenshot5-gunicorn.png.png)
 
 ### Final Deployment via Nginx
-![Nginx](screenshots/screenshot6-nginx-final.png)
+![Nginx](screenshots/Screenshot7-nginx-final.png.png)
 
 ## Result
 
